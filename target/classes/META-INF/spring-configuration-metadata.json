@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.demo.config.ApplicationProperties",
+      "sourceType": "com.demo.config.ApplicationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.audience",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.config.ApplicationProperties"
+    },
+    {
+      "name": "application.client-origin-url",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.config.ApplicationProperties"
+    }
+  ],
+  "hints": []
+}
